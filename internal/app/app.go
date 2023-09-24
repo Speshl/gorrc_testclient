@@ -10,11 +10,11 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Speshl/gorrc_client/internal/command"
-	"github.com/Speshl/gorrc_client/internal/config"
-	"github.com/Speshl/gorrc_client/internal/models"
-	vehicleType "github.com/Speshl/gorrc_client/internal/vehicle_type"
-	"github.com/Speshl/gorrc_client/internal/vehicle_type/crawler"
+	"github.com/Speshl/gorrc_testclient/internal/command"
+	"github.com/Speshl/gorrc_testclient/internal/config"
+	"github.com/Speshl/gorrc_testclient/internal/models"
+	vehicleType "github.com/Speshl/gorrc_testclient/internal/vehicle_type"
+	"github.com/Speshl/gorrc_testclient/internal/vehicle_type/crawler"
 	socketio "github.com/googollee/go-socket.io"
 	"golang.org/x/sync/errgroup"
 )

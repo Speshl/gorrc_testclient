@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Speshl/gorrc_client/internal/models"
+	"github.com/Speshl/gorrc_testclient/internal/models"
 	socketio "github.com/googollee/go-socket.io"
 	"github.com/pion/webrtc/v3"
 )

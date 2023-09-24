@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Speshl/gorrc_client/internal/command"
-	"github.com/Speshl/gorrc_client/internal/models"
-	vehicleType "github.com/Speshl/gorrc_client/internal/vehicle_type"
+	"github.com/Speshl/gorrc_testclient/internal/command"
+	"github.com/Speshl/gorrc_testclient/internal/models"
+	vehicleType "github.com/Speshl/gorrc_testclient/internal/vehicle_type"
 )
 
 const (

@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/Speshl/gorrc_client/internal/app"
-	"github.com/Speshl/gorrc_client/internal/config"
+	"github.com/Speshl/gorrc_testclient/internal/app"
+	"github.com/Speshl/gorrc_testclient/internal/config"
 	socketio "github.com/googollee/go-socket.io"
 )
 

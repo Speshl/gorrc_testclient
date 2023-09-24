@@ -3,7 +3,7 @@ package crawler
 import (
 	"log"
 
-	vehicleType "github.com/Speshl/gorrc_client/internal/vehicle_type"
+	vehicleType "github.com/Speshl/gorrc_testclient/internal/vehicle_type"
 )
 
 func (c *Crawler) upShift() {

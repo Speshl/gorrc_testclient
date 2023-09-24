@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Speshl/gorrc_client/internal/config"
+	"github.com/Speshl/gorrc_testclient/internal/config"
 )
 
 const (

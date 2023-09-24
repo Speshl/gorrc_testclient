@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/Speshl/gorrc_client/internal/models"
+	"github.com/Speshl/gorrc_testclient/internal/models"
 	"github.com/pion/webrtc/v3"
 )
 
