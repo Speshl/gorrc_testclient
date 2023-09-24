@@ -1,4 +1,4 @@
-module github.com/Speshl/gorrc_client
+module github.com/Speshl/gorrc_testclient
 
 go 1.20
 
